@@ -82,7 +82,7 @@ spring.datasource.password=yourpassword
 
 ```bash
 # Clone repo
-git clone <repo-url>
+git clone https://github.com/hkjhacode/Social-Media-Plaform.git
 
 # Create new branch
 git checkout -b feature/login
